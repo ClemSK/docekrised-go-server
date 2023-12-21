@@ -1,2 +1,2 @@
-# docekrised-go-server
+# dockerised-go-server
 go web servier with docker
